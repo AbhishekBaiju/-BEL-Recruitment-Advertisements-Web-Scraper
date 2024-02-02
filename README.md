@@ -15,7 +15,7 @@ This script scrapes the BEL (Bharat Electronics Limited) Recruitment Advertiseme
 
    ```bash
 
-   git clone https://github.com/AbhishekBaiju/-BEL-Recruitment-Advertisements-Web-Scraper.git
+   git clone https://github.com/AbhishekBaiju/bel-recruitment-scraper.git
 
    ```
 2. Change into the project directory:
