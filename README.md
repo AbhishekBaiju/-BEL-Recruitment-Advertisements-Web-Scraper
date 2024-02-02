@@ -1,4 +1,3 @@
-
 # BEL Recruitment Advertisements Web Scraper
 
 This script scrapes the BEL (Bharat Electronics Limited) Recruitment Advertisements from the official website and creates an HTML file with Bootstrap styling.
@@ -16,7 +15,7 @@ This script scrapes the BEL (Bharat Electronics Limited) Recruitment Advertiseme
 
    ```bash
 
-   git clone <repository_url>
+   git clone https://github.com/AbhishekBaiju/-BEL-Recruitment-Advertisements-Web-Scraper.git
 
    ```
 2. Change into the project directory:
